@@ -6,4 +6,4 @@ Originally this program was created to play Co-op Cuphead in a library, so if yo
 
 THAANK YOU
 
-This was coded with the help of chatgpt so vibe coding beware.
+While I can code in C# I don't understand audio drivers for the life of me so this was coded with the help of ChatGPT so vibe coding beware.
